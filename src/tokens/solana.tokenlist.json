@@ -2170,11 +2170,11 @@
     },
     {
       "chainId": 101,
-      "address": "A6aY2ceogBz1VaXBxm1j2eJuNZMRqrWUAnKecrMH85zj",
-      "name": "LQID",
-      "symbol": "LQID",
+      "address": "8b9mQo6ZU2rwZQgSFqGNQvXzrUSHDTRpKSKi9XXdGmqN",
+      "name": "CORGI",
+      "symbol": "CRI",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/dr497/awesome-serum-markets/icons/lqid.svg",
+      "logoURI": "https://i.imgur.com/EnTuPeq.jpg",
       "tags": []
     },
     {
